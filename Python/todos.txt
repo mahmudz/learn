@@ -1,0 +1,6 @@
+
+# Decisions making 
+# Files I/O
+# Loops
+# Date Time
+# Lists 

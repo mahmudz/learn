@@ -1,0 +1,50 @@
+# Have to do
+
+    --- Basics
+    
+    C++ Basic Syntax
+    C++ Comments
+    C++ Data Types
+    C++ Variable Types
+    C++ Variable Scope
+    C++ Constants/Literals
+    C++ Modifier Types
+    C++ Storage Classes
+    C++ Operators
+    C++ Loop Types
+    C++ Decision Making
+    C++ Functions
+    C++ Numbers
+    C++ Arrays
+    C++ Strings
+    C++ Pointers
+    C++ References
+    C++ Date & Time
+    C++ Basic Input/Output
+    C++ Data Structures
+
+    --- Object Oriented
+
+    C++ Classes & Objects
+    C++ Inheritance
+    C++ Overloading
+    C++ Polymorphism
+    C++ Abstraction
+    C++ Encapsulation
+    C++ Interfaces
+
+    --- Advanced
+    C++ Files and Streams
+    C++ Exception Handling
+    C++ Dynamic Memory
+    C++ Namespaces
+    C++ Templates
+    C++ Preprocessor
+    C++ Signal Handling
+    C++ Multithreading
+    C++ Web Programming
+
+
+
+# Complete
+	

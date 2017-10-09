@@ -1,0 +1,32 @@
+.console{
+	background: #1A1E24;
+	padding: 10px;
+	border: 1px solid #1A1E1E;
+	display: block;
+	min-height: 200px;
+	color: white;
+	height: auto;
+
+}
+.conTitle{
+	font-weight: bold;
+	color: #ccc;
+	font-family: monospace;
+	border-bottom: 2px solid teal; 
+}
+
+.output{
+	background: #282A36;
+	padding: 10px;
+	border: 1px solid #1A1E1E;
+	display: block;
+	height: 200px;
+	color: white;
+}
+.conTitle{
+	font-weight: bold;
+	color: #ccc;
+	font-family: monospace;
+	border-bottom: 2px solid teal; 
+}
+

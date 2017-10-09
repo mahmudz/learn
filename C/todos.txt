@@ -1,0 +1,136 @@
+﻿C is a general-purpose, procedural, imperative computer 
+programming language developed in 1972 by Dennis M. Ritchie at the 
+Bell Telephone Laboratories to develop the UNIX operating system.
+
+In 1978, Brian Kernighan and Dennis Ritchie produced the first 
+publicly available description of C, now known as the K&R standard.
+
+
+C is a case-sensitive programming language.
+
+
+# Integer Types
+-----------------------------------
+Type                Storage size        Value range
+------------------------------------------------------
+char                1 byte              -128 to 127 or 0 to 255
+unsigned char       1 byte              0 to 255
+signed char         1 byte              -128 to 127
+int                 2 or 4 bytes        -32,768 to 32,767 or -2,147,483,648 to 2,147,483,647
+unsigned int        2 or 4 bytes        0 to 65,535 or 0 to 4,294,967,295
+short               2 bytes             -32,768 to 32,767
+unsigned short      2 bytes             0 to 65,535
+long                4 bytes             -2,147,483,648 to 2,147,483,647
+unsigned long       4 bytes             0 to 4,294,967,295
+
+
+
+
+# Keywords
+------------------------------------
+    auto        else    long        switch
+    break       enum    register    typedef
+    case        extern  return      union
+    char        float   short       unsigned
+    const       for     signed      void
+    continue    goto    sizeof      volatile
+    default     if      static      while
+    do          int     struct      _Packed
+    double
+
+
+
+
+# Floating-point Literals
+--------------------------------------
+
+    85         /* decimal */
+    0213       /* octal */
+    0x4b       /* hexadecimal */
+    30         /* int */
+    30u        /* unsigned int */
+    30l        /* long */
+    30ul       /* unsigned long */
+
+
+
+
+# Floating-point Literals
+--------------------------------------
+
+    3.14159       /* Legal */
+    314159E-5L    /* Legal */
+    510E          /* Illegal: incomplete exponent */
+    210f          /* Illegal: no decimal or exponent */
+    .e55          /* Illegal: missing integer or fraction */
+
+
+# Defining Constants
+--------------------------------------
+
+There are two simple ways in C to define constants −
+
+   1. Using #define preprocessor.
+   2. Using const keyword.
+
+
+# Escape sequence codes
+--------------------------------------
+Escape      sequence Meaning
+--------------------------------
+\\          \ character
+\'          ' character
+\"          " character
+\?          ? character
+\a          Alert or bell
+\b          Backspace
+\f          Form feed
+\n          Newline or End of line
+\r          Carriage return
+\t          Horizontal tab
+\v          Vertical tab
+\ooo        Octal number of one to three digits
+\xhh . . .  Hexadecimal number of one or more digits
+
+
+
+
+
+
+
+
+
+# Tasks to do
+--------------------------------------
+
+    C - Program Structure
+    C - Basic Syntax
+    C - Data Types
+    C - Variables
+    C - Constants 
+    C - Storage Classes <-- Waiting -->
+    C - Operators 
+    C - Decision Making
+    C - Loops
+    C - Functions
+    C - Scope Rules
+    C - Arrays
+    C - Pointers <-- Waiting -->
+    C - Strings
+    C - Structures <--
+    C - Unions
+    C - Bit Fields
+    C - Typedef
+    C - Input & Output
+    C - File I/O
+    C - Preprocessors
+    C - Header Files
+    C - Type Casting
+    C - Error Handling
+    C - Recursion
+    C - Variable Arguments
+    C - Memory Management
+    C - Command Line Arguments
+
+
+Status: Running

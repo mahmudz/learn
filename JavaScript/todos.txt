@@ -1,0 +1,41 @@
+# Tasks to do
+--------------------------------------
+	1. Variables
+	2. Operators
+	3. If...else
+	4. switch case
+	5. while loop
+	6. for loop
+	7. Loop control
+	8. functions
+	9. Events
+	10. Cookies
+	11. Page redirect
+	12. Dialog Boxes
+	13. Void Keyword
+	14. Page printing
+	15. Objects
+	16. Number
+	17. Strings
+	18. Boolean
+	19. Arrays
+	20. Date
+	21. Math
+	22. RegExp
+	23. HTML DOM
+	
+	ADV-------------
+
+	24. Error Handling
+	25. Validations
+	26. Animation
+	27. Multimedia
+	28. Debugging
+	29. Image Map
+	30. Browsers
+
+
+
+
+# Complete
+	
