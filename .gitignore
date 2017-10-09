@@ -2,3 +2,5 @@
 *.o
 *.zip
 *.rar
+*.pyc
+*.java
